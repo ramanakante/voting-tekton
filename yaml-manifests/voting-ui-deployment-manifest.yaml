@@ -16,7 +16,7 @@ spec:
         app: voting-ui
     spec:
       containers:
-        - image: hriships/vote-app:1
+        - image: rkante/vote-app:1
           name: voting-ui
           ports:
             - containerPort: 8080
