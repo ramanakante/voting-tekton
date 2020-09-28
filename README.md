@@ -1,2 +1,2 @@
-# Voting app for Tekton Pipeline examples
+# UI app for OC testing
 "# voting-tekton" 
